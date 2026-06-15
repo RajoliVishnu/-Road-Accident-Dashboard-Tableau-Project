@@ -38,6 +38,11 @@ An interactive Tableau dashboard built to analyze road accident trends, casualty
 - Donut & Bar Chart Visualizations
 
 ## 👨‍💻 Author
-**Vishnuvaran Reddy**
-- LinkedIn: <your-linkedin-url>
-- GitHub: <your-github-url>
+**RAJOLI VISHNU VARDAN REDDY**
+- LinkedIn: <https://www.linkedin.com/in/rajoli-vishnu-vardan-reddy/>
+- GitHub: <https://github.com/RajoliVishnu>
+
+- ## 🌐 Live Dashboard
+
+🔗 **View the Interactive Dashboard:**  
+[Road Accident Dashboard (Tableau Public)](https://public.tableau.com/app/profile/vishnu.vardan.reddy.rajoli/viz/Road_Accident_Dashboard_17815291510030/RoadAccidentDashboard?publish=yes)
